@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu_lts_16/image_classifier/Dataset_Backup/20/model.ckpt"
+all_model_checkpoint_paths: "/home/ubuntu_lts_16/image_classifier/Dataset_Backup/20/model.ckpt"
