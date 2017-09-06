@@ -15,9 +15,10 @@ In this project, I will use Basic DNN(Deep Neural Network) to recognize traffic 
 #### Hardware:
     - Module to download the image (and send the result)
 
-#### Recommended OS: Linux Ubuntu 16.04 LTS
+#### Recommended OS: 
+    - Linux Ubuntu 16.04 LTS
 
 ### Running the code:
-  DNN Source Code: parameter.py
-  Begin Training: Train_Signs.py
-  Sign Classifier: Recognizer.py
+  - DNN Source Code: parameter.py
+  - Begin Training: Train_Signs.py
+  - Sign Classifier: Recognizer.py
