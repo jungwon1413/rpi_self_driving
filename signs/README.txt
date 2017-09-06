@@ -1,0 +1,1 @@
+Image from module will be saved in this folder. (jpg format)
