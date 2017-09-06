@@ -21,7 +21,7 @@ In this project, I will use Basic DNN(Deep Neural Network) to recognize traffic 
 ### Running the code:
   - DNN Source Code: parameter.py
   - Begin Training: Train_Signs.py
-  - Sign Classifier: Recognizer.py
+  - Sign Classifier: Recognizer.py<br>
   - Download dataset, and unzip the file at 'lab_2_data' folder.
   
 #### Actual Car in Motion
