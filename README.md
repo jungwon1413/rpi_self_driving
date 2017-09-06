@@ -11,7 +11,7 @@ In this project, I will use Basic DNN(Deep Neural Network) to recognize traffic 
   - Matplotlib
   - Numpy
   - Pandas
-  - sklearn
+  - Sklearn
 #### Hardware:
   - Module to download the image (and send the result)
 
