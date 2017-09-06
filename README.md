@@ -22,7 +22,7 @@ In this project, I will use Basic DNN(Deep Neural Network) to recognize traffic 
   - DNN Source Code: parameter.py
   - Begin Training: Train_Signs.py
   - Sign Classifier: Recognizer.py
-  - Download dataset, and create a folder 'lab_2_data' under rpi_self_driving folder.
+  - Download dataset, and unzip the file at 'lab_2_data' folder.
   
 #### Actual Car in Motion
 [YouTube Link #1 (3rd Person)](https://youtu.be/qZQRHKTS4-Y)<br>
