@@ -13,7 +13,7 @@ In this project, I will use Basic DNN(Deep Neural Network) to recognize traffic 
   - Pandas
   - sklearn
 #### Hardware:
-  - Module to download the image (and send the result)
+- Module to download the image (and send the result)
 
 #### Recommended OS: 
     - Linux Ubuntu 16.04 LTS
