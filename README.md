@@ -6,14 +6,14 @@ In this project, I will use Basic DNN(Deep Neural Network) to recognize traffic 
 
 ### Dependencies
 #### Software:
-    - Python 3.5
-    - Tensorflow
-    - Matplotlib
-    - Numpy
-    - Pandas
-    - sklearn
+  - Python 3.5
+  - Tensorflow
+  - Matplotlib
+  - Numpy
+  - Pandas
+  - sklearn
 #### Hardware:
-    - Module to download the image (and send the result)
+  - Module to download the image (and send the result)
 
 #### Recommended OS: 
     - Linux Ubuntu 16.04 LTS
