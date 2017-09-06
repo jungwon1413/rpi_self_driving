@@ -25,5 +25,5 @@ In this project, I will use Basic DNN(Deep Neural Network) to recognize traffic 
   - Download dataset, and create a folder 'lab_2_data' under rpi_self_driving folder.
   
 #### Actual Car in Motion
-[YouTube Link #1 (3rd Person)](https://youtu.be/qZQRHKTS4-Y)\n
-[YouTube Link #2 (1st Person)](https://youtu.be/GzHr-AEEOj4)
+[YouTube Link #1 (3rd Person)](https://youtu.be/qZQRHKTS4-Y)<br>
+[YouTube Link #2 (1st Person)](https://youtu.be/GzHr-AEEOj4)<br>
